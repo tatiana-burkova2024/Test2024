@@ -28,6 +28,8 @@
 
 Чтобы поставить гиперссылку без анкора, нужно взять URL в угловые скобки. Например, <https://author.today/u/andrianovatatana444/works/edit>
 
+С e-mail – это работает так же <taburk@mail.ru>
+
 
 
 ## Работа с таблицами
